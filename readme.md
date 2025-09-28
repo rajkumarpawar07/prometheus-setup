@@ -12,7 +12,7 @@ This setup provides a comprehensive monitoring solution that includes:
 ## Architecture
 
 ```
-<img width="1184" height="864" alt="Image_cwfcvocwfcvocwfc" src="https://github.com/user-attachments/assets/7eb24138-dd7c-44da-84e5-51921a976a6d" />
+https://github.com/user-attachments/assets/7eb24138-dd7c-44da-84e5-51921a976a6d
 
 ```
 
