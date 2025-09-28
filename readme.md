@@ -12,10 +12,8 @@ This setup provides a comprehensive monitoring solution that includes:
 ## Architecture
 
 ```
-┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
-│    Prometheus   │◄───│   Node Exporter  │    │   Alertmanager  │
-│   (Port: 9090)  │    │   (Port: 9100)   │◄───│   (Port: 9093)  │
-└─────────────────┘    └──────────────────┘    └─────────────────┘
+<img width="1184" height="864" alt="Gemini_Generated_Image_cwfcvocwfcvocwfc" src="https://github.com/user-attachments/assets/1f02c4eb-71b1-463c-ae7d-8bb9814f538f" />
+
 ```
 
 ## Components
